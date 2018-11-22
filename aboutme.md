@@ -14,4 +14,5 @@ subtitle: Wow, a whole page just about me!
 - Nací en Valencia pero vivo en Sevilla desde el 2001.
 - Ingeniero Técnico en Informática de Gestión por la Universidad de Sevilla.
 - Profesor Técnico de Formación Profesional desde septiembre de 2008.
+- Coordinador TIC en el IES Jacarandá desde 2010.
 
